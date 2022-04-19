@@ -17,5 +17,5 @@
 ・ Serveur discord:
 https://discord.io/service-gaming
 
-・Aperçu:
+・ Aperçu:
 https://zupimages.net/up/22/16/zeap.png
