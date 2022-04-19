@@ -1,5 +1,6 @@
 # NVGMainDos - hand in back
-Script FiveM - Mettre les mains dans le dos (Inspiration LSC) hand in back
+[FR] Script FiveM - Mettre les mains dans le dos (Inspiration LSC) hand in back
+[EN] FiveM Script - Putting Your Hands behind your back (Inspiration LSC) hand in back
 
 -------------------------------------------------------------
 
