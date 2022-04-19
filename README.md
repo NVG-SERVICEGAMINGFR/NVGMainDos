@@ -1,5 +1,5 @@
-# NVGMainDos
-Script FiveM - Mettre les mains dans le dos (Inspiration LSC)
+# NVGMainDos - hand in back
+Script FiveM - Mettre les mains dans le dos (Inspiration LSC) hand in back
 
 -------------------------------------------------------------
 
